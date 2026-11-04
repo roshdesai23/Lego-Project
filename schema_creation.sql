@@ -1,0 +1,1 @@
+CREATE SCHEMA til_portfolio_projects.RDD_LEGO
